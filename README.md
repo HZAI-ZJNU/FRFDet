@@ -47,11 +47,11 @@ cd FRFDet
 
 **Step 2: Install dependencies**
 
-```bash
-pip install ultralytics einops
+```
+To be updated
 ```
 
-> FRFDet is implemented on top of the [Ultralytics YOLO11](https://github.com/ultralytics/ultralytics) framework. The core modules `IBS_D`, `IBS_U`, `SFRCFMul`, and `SFRCFAdd` reside in [`nn/FRFDet/FRFDet.py`](nn/FRFDet/FRFDet.py).
+> Current FRFDet is implemented on top of the [Ultralytics YOLO11](https://github.com/ultralytics/ultralytics) framework. The core modules `IBS_D`, `IBS_U`, `SFRCFMul`, and `SFRCFAdd` reside in [`nn/FRFDet/FRFDet.py`](nn/FRFDet/FRFDet.py).
 
 ---
 
