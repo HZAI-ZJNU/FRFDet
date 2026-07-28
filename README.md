@@ -281,15 +281,14 @@ FRFDet/
 
 If you find FRFDet useful in your research, please consider citing:
 
-<!-- ```bibtex
-@inproceedings{frfdet2026icme,
-  title     = {{FRFDet}: Efficient {UAV} Small Object Detection with Symmetric Sampling and Scalable Fusion},
-  author    = {[Authors]},
-  booktitle = {Proceedings of the IEEE International Conference on Multimedia and Expo (ICME)},
-  year      = {2026}
+```bibtex
+@article{si2026frfdet,
+  title={FRFDet: Efficient UAV Small Object Detection with Symmetric Sampling and Scalable Fusion},
+  author={Si, Yunzhong and Xu, Huiying and Zhu, Xinzhong and Liu, Yang and Dong, Yao and Zhang, Wenhao and Li, Hongbo},
+  journal={arXiv preprint arXiv:2607.04125},
+  year={2026}
 }
 ```
---- -->
 
 ## 🙏 Acknowledgements
 
